@@ -1,0 +1,17 @@
+#include <../lib/UTILIS.h>
+#include <../lib/STD_TYPES.h>
+#include <util/delay.h>
+
+#ifndef     GIE_INTERFACE_H
+#define     GIE_INTERFACE_H
+
+
+void GIE_voidEnable(void);
+void GIE_voidDisable(void);
+
+
+
+
+
+
+#endif
